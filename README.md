@@ -1,2 +1,2 @@
 # Validador de CPF
- Curso Módulo Frontend Gama Academy
+ Curso Módulo Frontend Gama Academy utilizando javascript
